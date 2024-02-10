@@ -7,6 +7,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      colors: {
+        primary: "#00CCBB",
+      },
       // backgroundImage: {
       //   homebg: "url('./assets/homebg.png')",
       // },
